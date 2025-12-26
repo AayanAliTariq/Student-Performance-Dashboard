@@ -1,4 +1,4 @@
-# 📊 Student Performance Dashboard
+# Student Performance Dashboard
 
 ## Overview
 This project displays students’ **academic performance and attendance records**.  
